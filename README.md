@@ -20,4 +20,4 @@ No more forgetting updates. No annoying spam. Just clean boot-time ops.
 ## ⚡ Quick Install (1 Command)
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/YOUR_USERNAME/kali-boot-update-prompt/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/inder33/kali-boot-update-prompt/main/install.sh)
